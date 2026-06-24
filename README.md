@@ -1,1 +1,1 @@
-# 0x01-genai-app
+# 0x1-genai-app
